@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "www.ammarmt.tech" "\0"
-            VALUE "FileDescription", "riyadh_as_saliheen" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "flutter_listview" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "riyadh_as_saliheen" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 www.ammarmt.tech. All rights reserved." "\0"
-            VALUE "OriginalFilename", "riyadh_as_saliheen.exe" "\0"
-            VALUE "ProductName", "riyadh_as_saliheen" "\0"
+            VALUE "InternalName", "flutter_listview" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "flutter_listview.exe" "\0"
+            VALUE "ProductName", "flutter_listview" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
