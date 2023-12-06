@@ -1,11 +1,11 @@
 {
-    "name": "riyadh_as_saliheen",
-    "short_name": "riyadh_as_saliheen",
+    "name": "flutter_listview",
+    "short_name": "flutter_listview",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "amharic translation of riyadh as saliheen hadith module",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
